@@ -1,0 +1,27 @@
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 14px;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+
+  --color-purple: #6943ff;
+  --color-light-purple: #b295ff;
+  --color-white: #ffffff;
+  --color-dark-gray: #1f2937;
+  --color-gray: #273549;
+  --color-light-purple-2: #ccc1ff;
+}
+
+button,
+input {
+  display: block;
+}
