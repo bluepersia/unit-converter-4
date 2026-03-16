@@ -19,6 +19,11 @@ body {
   --color-dark-gray: #1f2937;
   --color-gray: #273549;
   --color-light-purple-2: #ccc1ff;
+
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 button,
