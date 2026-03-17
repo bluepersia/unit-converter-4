@@ -1,0 +1,14 @@
+.btn {
+  background-color: var(--color-white);
+  color: var(--color-gray-2);
+  font-size: 1.14rem;
+  padding: 0.56em 1.75em;
+  border-radius: 0.31em;
+  font-weight: 500;
+  border: none;
+  cursor: pointer;
+}
+
+.btn:hover {
+  filter: brightness(80%);
+}

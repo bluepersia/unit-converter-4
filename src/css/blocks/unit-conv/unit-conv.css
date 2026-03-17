@@ -1,0 +1,44 @@
+.unit-conv {
+  max-width: 550px;
+  text-align: center;
+  color: var(--color-white);
+}
+
+.unit-conv__header {
+  padding: 2.35em 3.64em;
+  background-color: var(--color-purple);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.unit-conv__title {
+  font-size: 2rem;
+  margin-bottom: 1.07em;
+  font-weight: 800;
+}
+
+.unit-conv__input {
+  font-weight: 800;
+  font-size: 3.42rem;
+  text-align: inherit;
+  width: 8.3rem;
+  color: inherit;
+  background-color: transparent;
+  border: solid 2px var(--color-light-purple);
+  padding: 0.2em 0;
+  margin-bottom: 0.43em;
+}
+
+.unit-conv__output {
+  background-color: var(--color-dark-gray);
+  padding: 2.57em 1.78em;
+}
+
+.unit-conv__output-list {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-direction: column;
+  row-gap: 1.6em;
+}
