@@ -1,0 +1,11 @@
+.unit-conversion {
+  padding: 2em 0;
+  background-color: var(--color-gray);
+}
+
+.unit-conversion__title {
+  color: var(--color-light-purple-2);
+  font-size: 1.42rem;
+  font-weight: 500;
+  margin-bottom: 0.45em;
+}
