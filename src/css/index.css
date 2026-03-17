@@ -19,6 +19,7 @@ body {
   --color-dark-gray: #1f2937;
   --color-gray: #273549;
   --color-light-purple-2: #ccc1ff;
+  --color-gray-2: #3d3d3d;
 
   min-height: 100vh;
   display: flex;
